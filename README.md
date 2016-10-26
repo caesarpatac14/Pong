@@ -10,13 +10,15 @@ Game Overview:
 ========================================================================================================================================
 CONTROLS:
 
-  W - Move Up (Player 1)
-  S - Move Down (Player 1)
-  D - Power Up (Player 1)
+Player 1:
+  W - Move Up
+  S - Move Down
+  D - Power Up
 
-  UP Key - Move Up (Player 2)
-  DOWN Key - Move Down (Player 2)
-  LEFT Key - Power Up (Player 2)
+Player 2:
+  UP Key - Move Up
+  DOWN Key - Move Down
+  LEFT Key - Power Up
 
 ========================================================================================================================================
 
