@@ -11,13 +11,13 @@ Game Overview:
 CONTROLS:
 
 Player 1:
-  W - Move Up
-  S - Move Down
+  W - Move Up,
+  S - Move Down,
   D - Power Up
 
 Player 2:
-  UP Key - Move Up
-  DOWN Key - Move Down
+  UP Key - Move Up,
+  DOWN Key - Move Down,
   LEFT Key - Power Up
 
 ========================================================================================================================================
